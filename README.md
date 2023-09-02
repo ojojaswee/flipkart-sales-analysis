@@ -28,7 +28,7 @@ In this project, I have analyzed Flipkart Products Dataset consisting of 20,000 
 * Which are the top-performing product categories and brands
 
 ### Installation
-I used the following commands in Jupyter Notebook to install the required libraries:
+Use the following commands in Jupyter Notebook to install the required libraries:
 
 ```python
 pip install -r requirements.txt
